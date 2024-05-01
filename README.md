@@ -1,3 +1,7 @@
+# Bloom Multilingual Chatbot
+
+## Conversate effortlessly in more than 50 languages!
+
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/AstraBert/bloom-multilingual-chatbot" alt="GitHub top language">
    <img src="https://img.shields.io/github/commit-activity/t/AstraBert/bloom-multilingual-chatbot" alt="GitHub commit activity">
@@ -10,10 +14,6 @@
         <p><i>This logo was generated with <a href="https://www.coze.com/s/ZmFqxkofJ/">CoderLogon</a>, a Coze bot that generates logos for your GitHub repos, exploiting <a href="https://pollinations.ai/">Pollinations AI</a> API</i></p>
    </div>
 </div>
-
-# Bloom Multilingual Chatbot
-
-Conversate effortlessly in more than 50 languages!
 
 ## Yes, ChatGPT is multilingual, but...
 ...It does not yield the same high performances that you can get by querying it in English. 
