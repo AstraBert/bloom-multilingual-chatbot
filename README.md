@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/github/commit-activity/t/AstraBert/bloom-multilingual-chatbot" alt="GitHub commit activity">
    <img src="https://img.shields.io/badge/chatbot-stable-green" alt="Static Badge">
    <img src="https://img.shields.io/badge/Release-v0.0.0-purple" alt="Static Badge">
-   <img src="https://img.shields.io/badge/Docker_image_size-5.98GB-red" alt="Static Badge">
+   <img src="https://img.shields.io/badge/Docker_image_size-5.54GB-red" alt="Static Badge">
    <img src="https://img.shields.io/badge/Supported_platforms-linux/amd64-brown" alt="Static Badge">
    <div>
         <a href="https://astrabert.github.io/bloom-multilingual-chat"><img src="./multilingualbloom.png"></a>
