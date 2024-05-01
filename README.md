@@ -5,6 +5,10 @@
    <img src="https://img.shields.io/badge/Release-v0.0.0-purple" alt="Static Badge">
    <img src="https://img.shields.io/badge/Docker_image_size-5.98GB-red" alt="Static Badge">
    <img src="https://img.shields.io/badge/Supported_platforms-linux/amd64-brown" alt="Static Badge">
+   <div>
+        <a href="https://astrabert.github.io/bloom-multilingual-chat"><img src="./multilingualbloom.png"></a>
+        <p><i>This logo was generated with <a href="https://www.coze.com/s/ZmFqxkofJ/">CoderLogon</a>, a Coze bot that generates logos for your GitHub repos, exploiting <a href="https://pollinations.ai/">Pollinations AI</a> API</i></p>
+   </div>
 </div>
 
 # Bloom Multilingual Chatbot
@@ -116,13 +120,13 @@ Now we can launch the application with:
 demo.launch()
 ```
 
-And, imagining the we saved the whole script in a file titled `chat.py`, to make the chatbot run we go to our terminal and type:
+And, imagining that we saved the whole script in a file titled `chat.py`, to make the chatbot run we go to our terminal and type:
 
 ```bash
 python3 chat.py
 ```
 
-Than we patiently wait and head over to the local server link that Gradio will give us once everything is loaded and ready to work!
+Then we patiently wait and head over to the local server link that Gradio will give us once everything is loaded and ready to work!
 
 If you want to find the source code, go to the [scripts](./scripts/) folder.
 
