@@ -1,0 +1,4 @@
+transformers==4.39.3
+langdetect==1.0.9
+deep-translator==1.11.4
+torch==2.1.2
